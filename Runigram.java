@@ -224,7 +224,6 @@ public class Runigram {
 			Runigram.display(frame);
 			StdDraw.pause(50);
 		}
-
 	}
 	
 	/** Creates a canvas for the given image. */
